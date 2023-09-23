@@ -49,13 +49,13 @@ start program
 
 2. Your project must have at least three scripts total (i.e., not necessarily three per sprite).
 
-    - TCO
+    - [x]
 
 3. Your project must use at least one conditional, at least one loop, and at least one variable.
 
-    - [ ] Cond: x
-    - Loop: x
-    - Var: x
+    - [x] Cond
+    - [x] Loop
+    - [x] Var
 
 4. Your project must use at least one custom block that you have made yourself (via Make a Block), which must take at least one input.
 
