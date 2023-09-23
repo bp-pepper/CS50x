@@ -53,7 +53,7 @@ start program
 
 3. Your project must use at least one conditional, at least one loop, and at least one variable.
 
-    - Cond: x
+    - [ ] Cond: x
     - Loop: x
     - Var: x
 
