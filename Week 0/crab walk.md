@@ -45,20 +45,18 @@ start program
 1. Your project must use at least two sprites, at least one of which must not be a cat.
 
     - Crab
-    - TBD
+    - Cage
 
 2. Your project must have at least three scripts total (i.e., not necessarily three per sprite).
 
-    -
-    -
-    -
+    - TCO
 
 3. Your project must use at least one conditional, at least one loop, and at least one variable.
 
-    - Cond:
-    - Loop:
-    - Var:
+    - Cond: x
+    - Loop: x
+    - Var: x
 
 4. Your project must use at least one custom block that you have made yourself (via Make a Block), which must take at least one input.
 
-    - Block:
+    - Block: Move Cage (input is difficulty level to calculate speed)
