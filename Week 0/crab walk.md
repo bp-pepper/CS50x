@@ -3,7 +3,7 @@
 - crab
 - jump over obstacles (cages) moving from right to left
 - scoring:
-  - time of run OR
+  - ~~ time of run OR ~~
   - obstacles jumped
 - obstacle detection
 - display score
